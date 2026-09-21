@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Rafae
 
-<!--
-**rafaerajani/rafaerajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Software Engineering student at UTS in Sydney, looking for a
+software developer internship from November 2026.
 
-Here are some ideas to get you started:
+**Currently building**
+- [dsa-review-scheduler](link): spaced-repetition reviews driven by my
+  LeetCode solutions (React, TypeScript, Node, MySQL)
+- [redis-lite](link): a Redis-compatible key-value store in Java
+  (RESP protocol, TTL, LRU eviction, append-only persistence)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript, Java, Python, C++, React, Node.js, MySQL
+
+**Contact:** www.linkedin.com/in/rafae-rajani-631ab33b1 · rafaerajani@gmail.com
